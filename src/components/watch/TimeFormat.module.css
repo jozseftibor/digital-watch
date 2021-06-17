@@ -1,0 +1,14 @@
+.timeformat {
+  display: inline-block;
+  position: relative;
+  width: 33%;
+  height: 15vh;
+  text-align: right;
+}
+
+.timeformat .content {
+  font-size: 4vh;
+  position: absolute;
+  bottom:1vh;
+  right:1vh;
+}

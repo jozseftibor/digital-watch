@@ -1,0 +1,14 @@
+.dayofweek {
+  display: inline-block;
+  position: relative;
+  width: 33%;
+  height: 15vh;
+  text-align: left;
+}
+
+.dayofweek .content {
+  font-size: 8vh;
+  position: absolute;
+  bottom: 0vh;
+  left: 0.5vh;
+}

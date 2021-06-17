@@ -1,0 +1,20 @@
+.clock {
+  font-size: 14vh;
+  text-align: right;
+  position: relative;
+  height: 14vh;
+  padding-top:20px;
+}
+
+.clock .time {
+  position: absolute;
+  left: 1vh;
+  bottom: 1vh;
+}
+
+.clock .seconds {
+  position: absolute;
+  font-size: 10vh;
+  right: 1vh;
+  bottom: 2vh
+}
